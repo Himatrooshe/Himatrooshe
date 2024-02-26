@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himatrooshe
 - 👀 I’m interested in ...learning new things.
-- 🌱 I’m currently learning... python.
+- 🌱 I’m currently learning... MERN.
 - 💞️ I’m looking to collaborate on...doing good at code and become a competitive programmer. 
 - 📫 How to reach me ..just mail me : mozahidulislamoshe01@gmail.com
 
